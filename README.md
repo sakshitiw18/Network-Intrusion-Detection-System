@@ -1,4 +1,3 @@
-# Network-Intrusion-Detection-System
 # 🛡️ Real-Time Cyberattack Detection on AWS
 
 > A scalable, cloud-native machine learning pipeline that detects and classifies network attacks in real time, with automated retraining to stay ahead of evolving threats.
